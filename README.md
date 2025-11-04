@@ -1,4 +1,4 @@
-# 🌱 Mangrove-Campaign 
+# 🌱 Mangrove Campaign 
 Proyek ini berfokus pada penerapan styling menggunakan CSS untuk mengubah tampilan halaman web agar terlihat menarik, modern, dan komunikatif.
 ---
 ## 🧾 Deskripsi Proyek
